@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bima Sanjaya </h1>
 	
 ## About
-Hello, I am Front-End Developer, working on multiple projects, mainly Front-ENd using React JS. I have created many project to grow up my skill. And I'm never stop to learning !
+Hello, I am Front-End Developer, working on multiple projects, mainly Front-End using React JS. I have created many project to grow up my skill. And I'm never stop to learning !
 
 -------------------
 
