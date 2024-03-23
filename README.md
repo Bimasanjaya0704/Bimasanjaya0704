@@ -13,7 +13,8 @@ Hello, I am Front-End Developer, working on multiple projects, mainly Front-End 
 -------------------
 
 ## Contact
-<a href="mailto:sanjabim77@gmail.com">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/bimasanjaya/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/bim.sanss/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="mailto:sanjabim77@gmail.com">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/bimasanjaya/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/bim.sanss/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://bimasanjaya.me/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fbimasanjaya.me%2F" alt="Website Status"></a>
+
 
 -------------------
 
