@@ -16,7 +16,7 @@ Hello, I am Front-End Developer, working on multiple projects, mainly Front-End 
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjabim77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimasanjaya/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bim.sanss/)
-[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fbimasanjaya.me%2F)](https://bimasanjaya.me/)
+[![Website Status](https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white).](https://bimasanjaya.me/)
 
 
 
